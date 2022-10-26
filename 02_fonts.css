@@ -1,0 +1,17 @@
+/* BODY - это корнево тег*/
+body{
+    font-family: Verdana, Geneva sans-serif;
+    /*font-family: 'Roboto' sans-serif;*/
+    font-size: 18px;
+    line-height: 20px;
+    font-weight: normal;
+    /*!*text-decoration: line-through ;*!*/
+    /*font-style: italic;*/
+    /*letter-spacing: 2px;*/
+    /*word-spacing: 20px;*/
+}
+.css p{
+    font-family: Verdana;
+    font-weight: bold;
+    font-size: 10px;
+}

@@ -1,0 +1,26 @@
+/*Первый способ*/
+.border_1{
+    /*border-width: 2px;*/
+    /*border-style: solid;*/
+    /*border-color: #2549d9;*/
+    border: 2px solid red;
+    /*border-style: dashed;*/
+    border-radius:20px;
+
+}
+/*Второй способ*/
+/*Bottom, top, right, left*/
+.border_2{
+    border-bottom: 2px solid blue;
+    border-top: 3px solid red;
+    border-left: 4px solid green;
+    border-right: 4px solid black;
+    border-bottom-left-radius: 20px;
+}
+
+.border_3{
+    border-left: 6px solid yellow;
+    background: lightsalmon;
+    padding-left: 20px;
+    color: #ffffff;
+}
